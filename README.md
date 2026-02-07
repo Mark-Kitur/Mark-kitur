@@ -25,7 +25,7 @@ https://github.com/Mark-Kitur/My_embedded_world
 weather 
 https://github.com/Mark-Kitur/weather-
 
-Sign language interprapter on RAS PI
+Sign language interpreter on RAS PI
 https://github.com/Mark-Kitur/audio_classification
 
 **AI, Machine Learning, and Software Engineering**
