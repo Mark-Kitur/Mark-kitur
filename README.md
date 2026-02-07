@@ -41,6 +41,7 @@ I work across modern and traditional AI systems, including:
               •	Raspberry Pi      
               •	ESP8266      
               •	Web backends running Ruby
+              •	Flask
 **AI & ML Ptojects**
 
 transformer (attention is all you need) from scratch
