@@ -62,6 +62,7 @@ Ornithopter this contains ( Objects detections and RL)
 https://github.com/Mark-Kitur/Ornithopter_AI
 
 **Robotics**
+
   •	KUKA KR210 Inverse Kinematics Solver – Analytical IK and ROS integration.
   •	Kinematics, dynamics, and control experiments.
 KUKA KR-210
