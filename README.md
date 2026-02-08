@@ -56,8 +56,11 @@ https://github.com/Mark-Kitur/BankBytes
 GRU chatobt from scratch
 https://github.com/Mark-Kitur/GRU_chatbot
 
-model deployment on EPS8266
+Crop recommendation Sytem on EPS8266
 https://github.com/Mark-Kitur/crop_recomendation
+
+Cart Pole RL
+https://github.com/Mark-Kitur/ros2_humble/tree/main/cart_pole
 
 Ornithopter this contains ( Objects detections and RL)
 https://github.com/Mark-Kitur/Ornithopter_AI
