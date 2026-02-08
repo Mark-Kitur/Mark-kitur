@@ -16,7 +16,7 @@ I build and deploy real-time systems using microcontrollers and single-board com
 Automated Ligths
 https://github.com/Mark-Kitur/Automated-lights
 
-model deployment on EPS8266
+Crop recommendation System on EPS8266
 https://github.com/Mark-Kitur/crop_recomendation
 
 communication protocals, ADC, PWM
