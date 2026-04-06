@@ -14,6 +14,9 @@ I build and deploy real-time systems using microcontrollers and single-board com
 - Custom Linux image creation and build automation using Yocto Project and BitBake for scalable embedded deployments.
 **Embedded projects**
 
+Yocto 
+https://github.com/Mark-Kitur/mark_os
+
 Automated Ligths
 https://github.com/Mark-Kitur/Automated-lights
 
