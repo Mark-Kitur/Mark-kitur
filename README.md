@@ -11,6 +11,7 @@ I build and deploy real-time systems using microcontrollers and single-board com
     •	Hardware-software integration for sensing, actuation, and control loops.    
     •	Deployment of ML models on ESP8266, Raspberry Pi, and other constrained devices.    
     •	Embedded automation modules implemented in C .
+- Custom Linux image creation and build automation using Yocto Project and BitBake for scalable embedded deployments.
 **Embedded projects**
 
 Automated Ligths
