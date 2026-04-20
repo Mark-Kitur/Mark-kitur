@@ -81,16 +81,9 @@ https://github.com/Mark-Kitur/ros2_humble
     
 
 **What I'm Currently Building**
-
-  •	completting embedded system communication protocals
-  
-  •	Hybrid robotics systems integrating AI inference on embedded platforms.
-  
+  • Deepening my expertise in Yocto Project for custom Linux distributions—layers, recipes, multiconfig, and embedded build optimization.
   •	Transformer and CV workflows for automation tasks.
   
   •	Embedded ML inference modules on Raspberry Pi and ESP boards.
   
-
-**About This Repository**
-Mark-Kitur/Mark-Kitur is a special repository whose README.md appears on my GitHub profile. It provides an overview of my engineering background, project focus, and ongoing work. 
 
