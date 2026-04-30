@@ -1,5 +1,5 @@
 **Hi, I'm Mark Kimutai Kitur**
-Mechatronic engineer and data scientist focusing on robotics, embedded systems, and AI-driven automation. I develop end-to-end intelligent systems that integrate hardware, software, and machine learning.
+Mechatronic engineer and data scientist focusing on  embedded systems,robotics, and AI-driven automation. I develop end-to-end intelligent systems that integrate hardware, software, and machine learning.
 
 **Embedded Systems Development**
 
